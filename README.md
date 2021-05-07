@@ -1,3 +1,8 @@
+# React app hosted on Heroku
+
+This project has as a goal to create a react web application, hosted on Heroku, that works through a Docker image.
+We are going to build each step of this project, going from Github -> Heroku <- Docker
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
