@@ -15,8 +15,6 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "final-projectjulien" #Must be unique in Heroku
           heroku_email: "julien.maalouf@hotmail.fr"
-					
-
   push_to_registry:
     name: Push Docker image to Docker Hub
     runs-on: ubuntu-latest
